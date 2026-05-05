@@ -58,3 +58,6 @@ packaged.yaml
 .Spotlight-V100
 .Trashes
 Icon\r
+
+# Claude Code project state (local only, never commit)
+.claude/
